@@ -90,6 +90,5 @@ st.markdown("---")
 st.subheader("💬 Need help? Talk to our AI Agent")
 
 components.html("""
-    <elevenlabs-convai agent-id="agent_01jy6eg2k9ffds3qf2vcp6m99g"></elevenlabs-convai>
-    <script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
+   <elevenlabs-convai agent-id="agent_01jz8paackfjcbxzwcz8x171ke"></elevenlabs-convai><script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
 """, height=400)
